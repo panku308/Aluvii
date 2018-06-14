@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UnitPriceIncreaseArrow</name>
+   <tag></tag>
+   <elementGuidId>ad2fcf33-008c-46cb-aa35-caa385174471</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/form/div/div/div[2]/fieldset/div/div[2]/div[2]/div/div/div/span/span/span/span[1]/span</value>
+   </webElementProperties>
+</WebElementEntity>

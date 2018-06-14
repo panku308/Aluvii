@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_categoryImageBox</name>
+   <tag></tag>
+   <elementGuidId>c1278127-990b-4ef4-ac80-5a0a67bbfa4b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>categoryImageBox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://aluviiproddatastorage.blob.core.windows.net/createnewinstance/images/products/48c16747b83c44bc99127b2800ce0d46.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollview&quot;)/div[1]/div[@class=&quot;k-virtual-page km-virtual-page&quot;]/div[@class=&quot;guests move k-block text-center product-holder&quot;]/div[1]/img[@class=&quot;categoryImageBox&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

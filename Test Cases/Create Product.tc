@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2460167f-df2b-4686-90a2-3336e14e69ba</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f68bd7c5-0a61-4a8e-bb51-fcc5b36c6d97</id>
+      <masked>false</masked>
+      <name>ProductName</name>
+   </variable>
+</TestCaseEntity>

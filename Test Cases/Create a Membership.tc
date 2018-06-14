@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create a Membership</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23f268f4-467e-41c4-94ea-dc29505dded7</testCaseGuid>
+   <variable>
+      <defaultValue>'&quot;&quot;'</defaultValue>
+      <description></description>
+      <id>3734a39e-3391-46bb-8272-5ed67ed22789</id>
+      <masked>false</masked>
+      <name>Email_ID</name>
+   </variable>
+</TestCaseEntity>
