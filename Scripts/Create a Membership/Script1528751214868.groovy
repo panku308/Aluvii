@@ -38,7 +38,7 @@ WebUI.click(findTestObject('Page_Login/button_Login'))
 
 WebUI.click(findTestObject('Page_Dashboard/a_Manage Memberships'))
 
-WebUI.delay(5)
+WebUI.delay(4)
 
 WebUI.mouseOver(findTestObject('Page_Manage Memberships/span_k-icon  k-i-arrow-60-down'))
 
@@ -90,7 +90,7 @@ WebUI.click(findTestObject('Page_Manage Memberships/SearchButton'), FailureHandl
 
 WebUI.delay(5)
 
-WebUI.verifyElementText(findTestObject('Page_Manage Memberships/Member_Email_Column') , Email_ID.toLowerCase())
+WebUI.verifyElementText(findTestObject('Page_Manage Memberships/Member_Email_Column'), Email_ID.toLowerCase())
 
 WebUI.closeBrowser()
 
